@@ -1,4 +1,7 @@
 // Solution 01
+/**
+ * This one was way easier than expected, actually I solved it in 5 minutes
+ */
 function noGhostSum(matrix: number[][]): number {
     let ghostInColumn = Array(matrix[0].length).fill('noGhost');
     let totalRoomsCost = 0;
