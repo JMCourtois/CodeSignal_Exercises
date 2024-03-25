@@ -1,5 +1,5 @@
 // Solution 01
-function solution(a: number[]): number[] {
+function alternatingSums(a: number[]): number[] {
     let firstTeamTotal = 0;
     let secondTeamTotal = 0; 
 
